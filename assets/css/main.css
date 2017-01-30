@@ -2242,6 +2242,10 @@ shortcodes page css
   text-decoration: underline;
 }
 
+#service5 strong{
+  font-size:2rem;
+  text-decoration: underline;
+}
 
 
 #service2{
@@ -2281,6 +2285,23 @@ shortcodes page css
 
 #service4 p{
   color: #721C1C;
+  font-size: 1.2rem;
+}
+
+
+
+
+
+#service5{
+  background: #721C1C;
+}
+
+#service5 h2{
+  color:#ffffff;
+}
+
+#service5 p{
+  color: #ffffff;
   font-size: 1.2rem;
 }
 
