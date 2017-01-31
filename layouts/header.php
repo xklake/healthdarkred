@@ -24,9 +24,6 @@
                 </li>
 
                 <li>
-                    <a href="#gallery" class="page-scroll" >Gallery</a>
-                </li>
-                <li>
                     <a href="#contact" class="page-scroll" >Contact</a>
                 </li>
             </ul>
