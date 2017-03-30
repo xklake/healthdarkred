@@ -13,7 +13,7 @@ use yii\web\AssetBundle;
 class HealthDarkredAssets extends AssetBundle
 {
     public $basePath = '@webroot';
-    public $baseUrl = '@web/healthdarkred/asset';
+    public $baseUrl = '@web/healthdarkred/assets';
 
 
     public $css = [
